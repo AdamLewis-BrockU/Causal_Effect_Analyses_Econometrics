@@ -99,7 +99,7 @@ https://davidcard.berkeley.edu/data_sets.html?utm_source=chatgpt.com
 
 # <u> EstimatedCausalEffects.ipynb File </u>**
 
-## **1) Education and Earnings: Does more education cause an increase in earnings?**
+## <u> **1) Education and Earnings: Does more education cause an increase in earnings?** </u>
 
 ### **Dataset Used:**
 
@@ -140,7 +140,7 @@ A dataframe with 526 observations on 24 variables:
 ### **Problem to be Answered:**
 - Does more education cause an increase in earnings?
 
-**2) Smoking and Birth Weight: Does smoking during pragnancy cause a decrease in baby birth weight?**
+## <u> **2) Smoking and Birth Weight: Does smoking during pragnancy cause a decrease in baby birth weight?** </u>
 
 ### **Dataset Used:**
 
@@ -163,7 +163,7 @@ A dataframe with 1236 observations on 8 variables:
 ### **Problem to be Answered:**
 - Does smoking during pragnancy cause a decrease in baby birth weight?
 
-**3) COVID Lockdowns: Did COVID lockdowns cause a larger decrease in student scores at poorer schools?**
+## <u> **3) COVID Lockdowns: Did COVID lockdowns cause a larger decrease in student scores at poorer schools?** </u>
 
 ### **Dataset Used:**
 
@@ -212,7 +212,7 @@ It should be noted that student performance has greatly been diminished as a res
 
 # **<u> EstimatedCausalEffects2.ipynb </u>**
 
-## **1) Memory Test on Drugged Islanders: Does the drug Xanax cause high memory recal after drug is administered?**
+## <u> **1) Memory Test on Drugged Islanders: Does the drug Xanax cause high memory recal after drug is administered?** </u>
 
 ### **Dataset Used:**
 
@@ -249,7 +249,7 @@ S- Sugar Tablet (Placebo) [1 tab/2tabs/3tabs]
 ### **Problem to be Answered:**
 - Does the drug Xanax cause higher memory recal after drug is administered?
 
-## **2) School Lunch Program: Does free lunch at schools cause an improvement in grades?**
+## <u> **2) School Lunch Program: Does free lunch at schools cause an improvement in grades?** </u>
 
 ### **Dataset Used:**
 
@@ -274,7 +274,7 @@ https://www.kaggle.com/datasets/bhavikjikadara/student-study-performance
 ### **Problem to be Answered:**
 - Does free lunch at schools cause an improvement in grades?
 
-## **3) Caffeine Intake: Does the amount of coffee consumed cause more energy?**
+## <u> **3) Caffeine Intake: Does the amount of coffee consumed cause more energy?** </u>
 
 ### **Dataset Used:**
 
