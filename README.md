@@ -4,6 +4,12 @@ Created by Adam Lewis. Includes jupyter notebooks (.ipynb files) written in pyth
 
 ---
 
+# **NOTES:**
+- If you download any notebooks, please follow the links to Kaggle or any other source to download each dataset.
+- Then replace each file path in pd.read_csv("File Path on Computer") with your own dataset file path on your own computer.
+
+---
+
 
 # **<u> Abortion_CEA.ipynb File </u>**
 
